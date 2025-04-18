@@ -1,10 +1,8 @@
-# Assignment5
+#Assignment5
 
+Task 1: Create a Dictionary of Student Marks
 
-
- Task 1: Create a Dictionary of Student Marks
-
-**Problem Statement**  
+Problem Statement  
 Write a Python program that:
 
 1. Creates a dictionary where student names are keys and their marks are values.  
@@ -14,7 +12,7 @@ Write a Python program that:
 
 Task 2: Demonstrate List Slicing
 
-**Problem Statement**  
+Problem Statement  
 Write a Python program that:
 
 1. Creates a list of numbers from 1 to 10.  
